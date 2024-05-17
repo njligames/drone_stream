@@ -1,0 +1,5 @@
+Flask
+flask-socketio
+eventlet  # For better WebSocket performance with SocketIO
+# Optional:
+opencv-python  # If you need video processing
